@@ -15,10 +15,10 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/TripForge/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/TripForge/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/TripForge/privacy.html | ⏳ Pending |
-| Terms of Use | https://asunnyboy861.github.io/TripForge/terms.html | ⏳ Pending (required for subscription) |
+| Landing Page | https://asunnyboy861.github.io/TripForge/ | ✅ Active |
+| Support | https://asunnyboy861.github.io/TripForge/support.html | ✅ Active |
+| Privacy Policy | https://asunnyboy861.github.io/TripForge/privacy.html | ✅ Active |
+| Terms of Use | https://asunnyboy861.github.io/TripForge/terms.html | ✅ Active (required for subscription) |
 
 ## Repository Structure
 

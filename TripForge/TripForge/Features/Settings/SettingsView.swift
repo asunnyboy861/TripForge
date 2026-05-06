@@ -46,9 +46,9 @@ struct SettingsView: View {
                     } label: {
                         Label("Contact Support", systemImage: "envelope.fill")
                     }
-                    Link("Privacy Policy", destination: URL(string: "https://zzoutuo.github.io/TripForge/privacy")!)
-                    Link("Terms of Use", destination: URL(string: "https://zzoutuo.github.io/TripForge/terms")!)
-                    Link("Support Page", destination: URL(string: "https://zzoutuo.github.io/TripForge/support")!)
+                    Link("Privacy Policy", destination: URL(string: "https://asunnyboy861.github.io/TripForge/privacy.html")!)
+                    Link("Terms of Use", destination: URL(string: "https://asunnyboy861.github.io/TripForge/terms.html")!)
+                    Link("Support Page", destination: URL(string: "https://asunnyboy861.github.io/TripForge/support.html")!)
                 }
 
                 Section("About") {
